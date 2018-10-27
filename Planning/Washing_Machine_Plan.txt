@@ -1,0 +1,5 @@
+What is the objective?
+-I want to emulate a washing machine
+
+What is the functionality?
+-The washing machine should
