@@ -1,4 +1,0 @@
- .makefile linguist-detectable=false
- .SWIG linguist-detectable=false
- .c linguist-detectable=true
-
